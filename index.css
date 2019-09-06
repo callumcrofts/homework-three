@@ -111,6 +111,23 @@
 
       }
 
+      .contact-me {
+        font-family: sans-serif;
+        text-align: center;
+        font-size: 2em;
+        color: black;
+        box-shadow: -1px -1px 7px 1px rgba(255,18,18,1);
+        border: solid 1px #EFEFEF;
+        border-radius: 25px;
+        padding: 1%;
+      }
+
+      .button {
+        border: solid 1px #EFEFEF;
+        border-radius: 25px;
+        padding: 1%;
+      }
+
       .info {
         border-radius: 50%;
         opacity: 1;
