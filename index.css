@@ -1,6 +1,6 @@
   .header {
         width: 100%;
-        background-color: yellow;
+        background-color: #FE840E;
         position: fixed;
         z-index: 1;
         padding: 0px;
@@ -30,7 +30,7 @@
         width: 150px;
         text-decoration: none;
         padding: 2%;
-        background-color: green;
+        background-color: #8D9440;
         color: white;
         border: solid black 2px;
         border-radius: 25px;
@@ -48,7 +48,7 @@
         width: 150px;
         text-decoration: none;
         padding: 2%;
-        background-color: red;
+        background-color: #BD3D3A;
         color: white;
         border: solid black 2px;
         border-radius: 25px;
@@ -65,7 +65,7 @@
         width: 150px;
         text-decoration: none;
         padding: 2%;
-        background-color: blue;
+        background-color: #00539C;
         color: white;
         border: solid black 2px;
         border-radius: 25px;
